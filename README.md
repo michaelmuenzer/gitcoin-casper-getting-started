@@ -1,5 +1,5 @@
 ## 1. Create and deploy a simple, smart contract with cargo casper and cargo test
-![1](https://i.imgur.com/a/ObbWJo5.png)
+![1](https://i.imgur.com/SHlI4SZ.png)
 
 ## 2. Complete one of the existing tutorials for writing smart contracts - Multi-Signature Tutorial
 ![2](https://i.imgur.com/gl5jV91.png)
